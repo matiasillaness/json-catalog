@@ -1,0 +1,33 @@
+{
+  "MOTOROLA": [
+    {
+      "name": "E14",
+      "specs": "2RAM/64GB",
+      "price": 95,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://www.necxus.com.ar/products_image/36805/1000x1000_1.jpg"
+    },
+    {
+      "name": "G84 5G",
+      "specs": "12RAM/256GB",
+      "price": 280,
+      "colors": ["Azul", "Magenta"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://images.fravega.com/f500/8e1e780537f55dcf7914842dbfb52fea.jpg"
+    }
+  ],
+  "INFINIX": [
+    {
+      "name": "Hot 50I",
+      "specs": "4RAM/256GB",
+      "price": 160,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR86os-orZQM6LibWTGiNT_GVzYq7uIrXGgg&s"
+    }
+  ]
+}
