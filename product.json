@@ -25,8 +25,7 @@
       colors: ["Azul"],
       availability: "disponible",
       category: "smartphone",
-      imageUrl:
-        "https://www.cetrogar.com.ar/media/catalog/product/2/0/2024_paros_basic-pack_relucent-blue_pdp-hero.png?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+      imageUrl: "https://www.cetrogar.com.ar/media/catalog/product/2/0/2024_paros_basic-pack_relucent-blue_pdp-hero.png?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
     },
     {
       name: "Edge 50 fusión 5G",
