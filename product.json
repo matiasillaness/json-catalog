@@ -2,7 +2,7 @@
   {
     "MOTOROLA": [
       {
-        "name": "E14444",
+        "name": "E14",
         "specs": "2RAM/64GB",
         "price": 95,
         "colors": [
@@ -553,6 +553,9 @@
       {
         "name": "PS5 digital & NBA 2k25",
         "price": 650,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "consola",
         "imageUrl": "https://comprarmag.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-04-at-15.28.50.jpeg"
@@ -561,6 +564,9 @@
         "name": "PS5 pro",
         "specs": "2TB",
         "price": 1100,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "consola",
         "imageUrl": "https://d1a9qnv764bsoo.cloudfront.net/stores/082/436/rte/Playstation%205%20Pro.jpg"
@@ -580,6 +586,9 @@
         "name": "Xbox Series X",
         "specs": "1TB",
         "price": 680,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "limitado",
         "category": "consola",
         "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_658740-MLA80426409696_112024-O.webp"
@@ -676,6 +685,9 @@
       {
         "name": "AirPods 4",
         "price": 200,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "audio",
         "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_773157-MLA80061857479_102024-O.webp"
@@ -683,6 +695,9 @@
       {
         "name": "AirPods 4 con cancelaciÃ³n",
         "price": 245,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "limitado",
         "category": "audio",
         "imageUrl": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png"
@@ -690,6 +705,9 @@
       {
         "name": "AirPods Pro 21",
         "price": 290,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "audio",
         "imageUrl": "https://ipoint.com.ar/25134-large_default/apple-airpods-pro-2da-generacion.jpg"
@@ -698,6 +716,9 @@
         "name": "Airtag",
         "specs": "x1",
         "price": 45,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "accesorio",
         "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_701163-MLU70657225781_072023-F.webp"
@@ -706,6 +727,9 @@
         "name": "Airtag",
         "specs": "x4",
         "price": 140,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "accesorio",
         "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_950574-MLU74532398729_022024-F.webp"
@@ -803,6 +827,9 @@
       {
         "name": "Fuentes 20w original",
         "price": 45,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "accesorio",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCc4_ejgJ6e9dDGlftGyF3XSrdQbsRFa2aCQ&s"
@@ -810,6 +837,9 @@
       {
         "name": "Cable original \"C\" a \"C\"",
         "price": 30,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "accesorio",
         "imageUrl": "https://image.made-in-china.com/202f0j00NBsbEOLDfpqi/Original-USB-C-Type-C-to-C-Cable-for-iPhone-15-Plus-Ultra.jpg"
@@ -817,6 +847,9 @@
       {
         "name": "Cable original \"C\" a \"Lightning\"",
         "price": 15,
+        "colors": [
+          "Consultar"
+        ],
         "availability": "disponible",
         "category": "accesorio",
         "imageUrl": "https://acdn-us.mitiendanube.com/stores/356/280/products/6132-cable-iphone-tipo-c-a-lightning-generico-con-logo-en-caja-1-mt-1-656c048539841777d217271094281311-640-0.jpg"
