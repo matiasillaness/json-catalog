@@ -1,859 +1,673 @@
-[
-  {
-    "MOTOROLA": [
-      {
-        "name": "E14",
-        "specs": "2RAM/64GB",
-        "price": 100,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://www.necxus.com.ar/products_image/36805/1000x1000_1.jpg"
-      },
-      {
-        "name": "G84 5G",
-        "specs": "12RAM/256GB",
-        "price": 280,
-        "colors": [
-          "Azul",
-          "Magenta"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://images.fravega.com/f500/8e1e780537f55dcf7914842dbfb52fea.jpg"
-      },
-      {
-        "name": "G75 5G",
-        "specs": "8RAM/256GB",
-        "price": 325,
-        "colors": [
-          "Azul"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://www.cetrogar.com.ar/media/catalog/product/2/0/2024_paros_basic-pack_relucent-blue_pdp-hero.png?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:"
-      },
-      {
-        "name": "Edge 50 fusiÃ³n 5G",
-        "specs": "12RAM/256GB",
-        "price": 375,
-        "colors": [
-          "Azul"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://images.fravega.com/f1000/049a215a4e062199ece3a9616598e768.jpg"
-      }
-    ]
-  },
-  {
-    "INFINIX": [
-      {
-        "name": "Hot 50I",
-        "specs": "4RAM/256GB",
-        "price": 160,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR86os-orZQM6LibWTGiNT_GVzYq7uIrXGgg&s"
-      },
-      {
-        "name": "Hot 50",
-        "specs": "8RAM/256GB",
-        "price": 200,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://www.cordobadigital.net/wp-content/uploads/2024/12/Infinix-hot-50.webp"
-      },
-      {
-        "name": "Hot 50 pro",
-        "specs": "8RAM/256GB",
-        "price": 225,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_827274-MLA80072000412_102024-O.webp"
-      },
-      {
-        "name": "Note 40 5G",
-        "specs": "8RAM/256GB",
-        "price": 265,
-        "colors": [
-          "Negro",
-          "Dorado"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_910076-MLA78218008033_082024-O.webp"
-      }
-    ]
-  },
-  {
-    "XIAOMI": [
-      {
-        "name": "Redmi 14c 4G",
-        "specs": "8RAM/256GB",
-        "price": 170,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Violeta",
-          "Verde"
-        ],
-        "availability": "agotado",
-        "category": "smartphone",
-        "imageUrl": "https://www.ventasrosario.com.ar/wp-content/uploads/2024/09/Redmi-14c-azul.webp"
-      },
-      {
-        "name": "Redmi note 14 4G",
-        "specs": "6RAM/128GB",
-        "price": 225,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Verde"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://primeshop.com.py/wp-content/uploads/2025/01/5e499066f717866961e1fbcbf535918e492fe29c.jpg"
-      },
-      {
-        "name": "Redmi note 14 4G",
-        "specs": "8RAM/256GB",
-        "price": 255,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Verde"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://tntelectronica.com.ar/wp-content/uploads/Redmi-Note-14-2.png"
-      },
-      {
-        "name": "Redmi note 14 pro 4G",
-        "specs": "8RAM/256GB",
-        "price": 300,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Violeta"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://acdn-us.mitiendanube.com/stores/443/907/products/redmi_note_14_pro-1-bc2980875f45b7eba517371533196186-640-0.webp"
-      },
-      {
-        "name": "Redmi note 13 pro 5G",
-        "specs": "8RAM/256GB",
-        "price": 375,
-        "colors": [
-          "Azul"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://acdn-us.mitiendanube.com/stores/005/527/486/products/redmi-note-13-pro-1-f4c01192417a17148417337046375136-1024-1024.webp"
-      },
-      {
-        "name": "Redmi note 13 pro 5G",
-        "specs": "12RAM/512GB",
-        "price": 430,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://acdn-us.mitiendanube.com/stores/005/527/486/products/redmi-note-13-pro-1-d2d57d9ed7c762c1b717337064755950-1024-1024.png"
-      },
-      {
-        "name": "Poco c75",
-        "specs": "8RAM/256GB",
-        "price": 190,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://acdn-us.mitiendanube.com/stores/443/907/products/pococ75black-205f0fc61ea18e817117306748261930-640-0.jpg"
-      },
-      {
-        "name": "Poco m6 pro",
-        "specs": "12RAM/512GB",
-        "price": 275,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_670375-MLA73950493202_012024-F.webp"
-      },
-      {
-        "name": "Poco x6 pro",
-        "specs": "12RAM/512GB",
-        "price": 360,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_660762-MLA74048129932_012024-F.webp"
-      },
-      {
-        "name": "Poco x7 pro",
-        "specs": "12RAM/512GB",
-        "price": 450,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_977077-MLA81884595508_012025-F.webp"
-      }
-    ]
-  },
-  {
-    "SAMSUNG": [
-      {
-        "name": "A06",
-        "specs": "4RAM/64GB",
-        "price": 140,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_833169-MLA79994466307_102024-F.webp"
-      },
-      {
-        "name": "A06",
-        "specs": "8RAM/128GB",
-        "price": 180,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_833169-MLA79994466307_102024-F.webp"
-      },
-      {
-        "name": "A25 5G",
-        "specs": "6RAM/128GB",
-        "price": 240,
-        "colors": [
-          "Azul"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a256ezbaaro/gallery/ar-galaxy-a25-5g-sm-a256-sm-a256ezbaaro-542857268?$684_547_PNG$"
-      },
-      {
-        "name": "M55 5G",
-        "specs": "8RAM/256GB",
-        "price": 345,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "limitado",
-        "category": "smartphone",
-        "imageUrl": "https://img.caseking.es/products/SM-M556EZKAEUB.jpg"
-      },
-      {
-        "name": "S23 FE 5G",
-        "specs": "8RAM/256GB",
-        "price": 750,
-        "colors": [
-          "Verde"
-        ],
-        "availability": "limitado",
-        "category": "smartphone",
-        "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-s711blgmaro/gallery/ar-galaxy-s23-fe-s711-sm-s711blgmaro-538769720?$684_547_PNG$"
-      },
-      {
-        "name": "S24 5G",
-        "specs": "8RAM/256GB",
-        "price": 815,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "agotado",
-        "category": "smartphone",
-        "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSz5Mdk_sJx2aL7rL7u7w4NMPhVoR7kmdIRQpmzxL4Q6-a8UoGYbU3Q_tlsjtlmyVd1UdRhfMW9HoEJMoCplaJe_DUA9-TH9w"
-      }
-    ]
-  },
-  {
-    "IPHONE NUEVOS": [
-      {
-        "name": 13,
-        "specs": "128GB",
-        "price": 600,
-        "colors": [
-          "Negro",
-          "Blanco"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_736168-MLA47781742030_102021-F.webp"
-      },
-      {
-        "name": 14,
-        "specs": "128GB",
-        "price": 700,
-        "colors": [
-          "Purpura"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_881016-MLM51559383738_092022-F.webp"
-      },
-      {
-        "name": 15,
-        "specs": "128GB",
-        "price": 750,
-        "colors": [
-          "Negro",
-          "Verde",
-          "Azul"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_779617-MLA71782867320_092023-F.webp"
-      },
-      {
-        "name": 16,
-        "specs": "128GB",
-        "price": 850,
-        "colors": [
-          "Negro",
-          "Blanco"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_677076-MLU79116568655_092024-F.webp"
-      },
-      {
-        "name": "16 pro",
-        "specs": "128GB",
-        "price": 1050,
-        "colors": [
-          "Natural",
-          "Desert"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_836017-MLU78891585728_092024-F.webp"
-      },
-      {
-        "name": "16 pro",
-        "specs": "256GB",
-        "price": 1150,
-        "colors": [
-          "Blanco",
-          "Natural",
-          "Desert"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_836017-MLU78891585728_092024-F.webp"
-      },
-      {
-        "name": "16 pro max",
-        "specs": "256GB",
-        "price": 1230,
-        "colors": [
-          "Natural"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_728476-MLU78878973712_092024-F.webp"
-      }
-    ]
-  },
-  {
-    "IPHONE USADOS": [
-      {
-        "name": 12,
-        "specs": "64GB",
-        "price": 350,
-        "colors": [
-          "Blanco"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://images.fravega.com/f500/e6a38e4bb8815212cc66c9afe539f837.jpg"
-      },
-      {
-        "name": 12,
-        "specs": "128GB",
-        "price": 390,
-        "colors": [
-          "Verde"
-        ],
-        "availability": "agotado",
-        "category": "smartphone",
-        "imageUrl": "https://www.tandilphone.com.ar/topstore/contenido/productos/original/1706731818.jpeg"
-      },
-      {
-        "name": "12 pro",
-        "specs": "128GB",
-        "price": 460,
-        "colors": [
-          "Azul"
-        ],
-        "availability": "limitado",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_796427-MLA46081508810_052021-O.webp"
-      },
-      {
-        "name": 14,
-        "specs": "128GB",
-        "price": 550,
-        "colors": [
-          "Blanco",
-          "Azul",
-          "Purpura",
-          "Rojo"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://images.fravega.com/f1000/d0bc4dd6817cd61bc85878ba97bdd00e.jpg"
-      },
-      {
-        "name": 15,
-        "specs": "128GB",
-        "price": 680,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Verde",
-          "Rosa",
-          "Amarillo"
-        ],
-        "availability": "disponible",
-        "category": "smartphone",
-        "imageUrl": "https://ipoint.com.ar/26695-medium_default/iphone-14-128gb-midnight.jpg"
-      },
-      {
-        "name": "15 pro",
-        "specs": "128GB",
-        "price": 880,
-        "colors": [
-          "Negro",
-          "Azul"
-        ],
-        "availability": "limitado",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_Q_NP_878826-MLA71783168396_092023-O.webp"
-      },
-      {
-        "name": "15 pro",
-        "specs": "256GB",
-        "price": 980,
-        "colors": [
-          "Azul"
-        ],
-        "availability": "limitado",
-        "category": "smartphone",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_812116-MLA71783168214_092023-O.webp"
-      },
-      {
-        "name": "15 pro max",
-        "specs": "256GB",
-        "price": 1050,
-        "colors": [
-          "Negro",
-          "Azul"
-        ],
-        "availability": "limitado",
-        "category": "smartphone",
-        "imageUrl": "https://images.fravega.com/f500/58a8d7fcbef50febc051aec42c782ed3.jpg"
-      }
-    ]
-  },
-  {
-    "OTROS PRODUCTOS": [
-      {
-        "name": "MacBook Air M1 13\"",
-        "specs": "8/256GB",
-        "price": 920,
-        "colors": [
-          "Dorado",
-          "Gris",
-          "Plateado"
-        ],
-        "availability": "disponible",
-        "category": "laptop",
-        "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTzmBEtcf5XFZ83jugK1g2YrcREJP7q5oumih9rwQ1yTq_6fYnYnoZBiQlNUIbn2551rmjIOwdHUs2mLZYFvx2BE9NLFvxe8Q"
-      },
-      {
-        "name": "MacBook Air M1 13\" (usada)",
-        "specs": "8/256GB",
-        "price": 810,
-        "colors": [
-          "Dorado"
-        ],
-        "availability": "limitado",
-        "category": "laptop",
-        "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTzmBEtcf5XFZ83jugK1g2YrcREJP7q5oumih9rwQ1yTq_6fYnYnoZBiQlNUIbn2551rmjIOwdHUs2mLZYFvx2BE9NLFvxe8Q"
-      },
-      {
-        "name": "MacBook Air M2 13\"",
-        "specs": "8/256GB",
-        "price": 1070,
-        "colors": [
-          "Blanco"
-        ],
-        "availability": "limitado",
-        "category": "laptop",
-        "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCrcSAkxZIkQVlQ6aJo5Yt_lA8ao5NEhU_2kZplTqHhRszSs4Gc_6XdVFNb9DFSEh87aWGGhiQS3V_YtLUsRsYI462Kdhe"
-      },
-      {
-        "name": "MacBook Air M3 13\"",
-        "specs": "8/512GB",
-        "price": 1550,
-        "colors": [
-          "Gris"
-        ],
-        "availability": "disponible",
-        "category": "laptop",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfhazJpgTUHO2C-uVAGkxEwqP6m1cZXTVxWIzGag0Ov_lzMC03-kSu9yk4vv_DbV4-HvA0ej3nBJ4YYYzMnK7dy5FUZrEH"
-      },
-      {
-        "name": "MacBook Air M3 13\"",
-        "specs": "16/256GB",
-        "price": 1250,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "agotado",
-        "category": "laptop",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfhazJpgTUHO2C-uVAGkxEwqP6m1cZXTVxWIzGag0Ov_lzMC03-kSu9yk4vv_DbV4-HvA0ej3nBJ4YYYzMnK7dy5FUZrEH"
-      },
-      {
-        "name": "MacBook Air M3 13\"",
-        "specs": "16/512GB",
-        "price": 1650,
-        "colors": [
-          "Negro",
-          "Blanco"
-        ],
-        "availability": "limitado",
-        "category": "laptop",
-        "imageUrl": "https://macfinder.co.uk/wp-content/smush-webp/2023/01/img-MacBook-Air-13-Inch-33812.jpg.webp"
-      },
-      {
-        "name": "PS5 digital & NBA 2k25",
-        "price": 650,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "consola",
-        "imageUrl": "https://comprarmag.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-04-at-15.28.50.jpeg"
-      },
-      {
-        "name": "PS5 pro",
-        "specs": "2TB",
-        "price": 1100,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "consola",
-        "imageUrl": "https://d1a9qnv764bsoo.cloudfront.net/stores/082/436/rte/Playstation%205%20Pro.jpg"
-      },
-      {
-        "name": "Joystick PS5",
-        "price": 135,
-        "colors": [
-          "Blanco",
-          "Rosa"
-        ],
-        "availability": "disponible",
-        "category": "accesorio",
-        "imageUrl": "https://tiendadiggit.com.ar/web/image/product.image/11324/image_1024/Joystick%20Dualsense%20Sony%20Playstation%205%20Blanco?unique=a39300e"
-      },
-      {
-        "name": "Xbox Series X",
-        "specs": "1TB",
-        "price": 680,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "limitado",
-        "category": "consola",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_658740-MLA80426409696_112024-O.webp"
-      },
-      {
-        "name": "Nintendo Switch OLED",
-        "specs": "64GB",
-        "price": 420,
-        "colors": [
-          "NeÃ³n"
-        ],
-        "availability": "limitado",
-        "category": "consola",
-        "imageUrl": "https://spacegamer.com.ar/img/Public/1058/25394-producto-oledneon.jpg"
-      },
-      {
-        "name": "iPad 10 10.9\"",
-        "specs": "64GB",
-        "price": 490,
-        "colors": [
-          "Azul",
-          "Amarillo"
-        ],
-        "availability": "limitado",
-        "category": "tablet",
-        "imageUrl": "https://ipoint.com.ar/26998-large_default/ipad-109-10-gen-64gb-blue.jpg"
-      },
-      {
-        "name": "iPad 10 10.9\"",
-        "specs": "256GB",
-        "price": 620,
-        "colors": [
-          "Amarillo"
-        ],
-        "availability": "limitado",
-        "category": "tablet",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmUvV1v1-2nkoYxvJqeb-SO1BXDXcx8a4hA&s"
-      },
-      {
-        "name": "Watch SE 2 44mm band",
-        "price": 300,
-        "colors": [
-          "Negro",
-          "Blanco"
-        ],
-        "availability": "disponible",
-        "category": "smartwatch",
-        "imageUrl": "https://macstore.com.pa/cdn/shop/files/Apple_Watch_SE_GPS_44mm_Starlight_Aluminum_Starlight_Sport_Loop_PDP_Image_2023_Position-1__COES_6c2126ac-ba1b-433b-9289-565ff4b9df20_533x.jpg?v=1700489003"
-      },
-      {
-        "name": "Watch SE 2 44mm loop",
-        "price": 315,
-        "colors": [
-          "Negro",
-          "Blanco"
-        ],
-        "availability": "agotado",
-        "category": "smartwatch",
-        "imageUrl": "https://macstore.com.pa/cdn/shop/files/Apple_Watch_SE_GPS_44mm_Starlight_Aluminum_Starlight_Sport_Loop_PDP_Image_2023_Position-1__COES_6c2126ac-ba1b-433b-9289-565ff4b9df20_533x.jpg?v=1700489003"
-      },
-      {
-        "name": "Watch Ultra 2 49mm loop",
-        "price": 950,
-        "colors": [
-          "Negro",
-          "Azul Indico"
-        ],
-        "availability": "disponible",
-        "category": "smartwatch",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_882302-MLA81007139525_112024-F.webp"
-      },
-      {
-        "name": "Watch S10 46mm band",
-        "price": 575,
-        "colors": [
-          "Negro",
-          "Rosa"
-        ],
-        "availability": "disponible",
-        "category": "smartwatch",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-OEdViHtMXtONo7yuMthcA_Sj_98Y2owwEw&s"
-      },
-      {
-        "name": "Watch S10 46mm loop",
-        "price": 575,
-        "colors": [
-          "Negro",
-          "Plateado"
-        ],
-        "availability": "disponible",
-        "category": "smartwatch",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1wr8QxBP-3iHWCzZFcdNr6pUFcO_PbD9ilzUClxY8aZJHOELQBzYz2BFVGzDrK62gM8&usqp=CAU"
-      },
-      {
-        "name": "AirPods 4",
-        "price": 200,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_773157-MLA80061857479_102024-O.webp"
-      },
-      {
-        "name": "AirPods 4 con cancelaciÃ³n",
-        "price": 245,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "limitado",
-        "category": "audio",
-        "imageUrl": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png"
-      },
-      {
-        "name": "AirPods Pro 21",
-        "price": 290,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://ipoint.com.ar/25134-large_default/apple-airpods-pro-2da-generacion.jpg"
-      },
-      {
-        "name": "Airtag",
-        "specs": "x1",
-        "price": 45,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "accesorio",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_701163-MLU70657225781_072023-F.webp"
-      },
-      {
-        "name": "Airtag",
-        "specs": "x4",
-        "price": 140,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "accesorio",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_950574-MLU74532398729_022024-F.webp"
-      },
-      {
-        "name": "JBL Go 4",
-        "price": 70,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Rojo"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://images.fravega.com/f300/626bf9c3597c39b7559bd5257350b4f0.jpg.webp"
-      },
-      {
-        "name": "JBL Clip 5",
-        "price": 95,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Rojo"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://images.fravega.com/f300/95791675b80f7e969e06bc1fabbb0437.jpg.webp"
-      },
-      {
-        "name": "JBL Flip 6",
-        "price": 140,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Rojo"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_892684-MLA81183505962_122024-F.webp"
-      },
-      {
-        "name": "JBL Charge 5",
-        "price": 190,
-        "colors": [
-          "Negro",
-          "Azul",
-          "Rojo"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_811259-MLA77592320409_072024-F.webp"
-      },
-      {
-        "name": "JBL Pulse 5",
-        "price": 280,
-        "colors": [
-          "Negro"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5115a3ac/1_JBL_PULSE_5_HERO_34364_x2.png?sw=537&sfrm=png"
-      },
-      {
-        "name": "JBL Xtreme 4",
-        "price": 355,
-        "colors": [
-          "Negro",
-          "Azul"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_608591-MLA79642765965_092024-F.webp"
-      },
-      {
-        "name": "JBL Boombox 3",
-        "price": 525,
-        "colors": [
-          "Negro",
-          "Camuflado"
-        ],
-        "availability": "disponible",
-        "category": "audio",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_865346-MLA74770370481_022024-F.webp"
-      },
-      {
-        "name": "Magic Mouse",
-        "price": 120,
-        "colors": [
-          "Blanco"
-        ],
-        "availability": "limitado",
-        "category": "accesorio",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_624987-MLA48881660084_012022-F.webp"
-      },
-      {
-        "name": "Fuentes 20w original",
-        "price": 45,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "accesorio",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCc4_ejgJ6e9dDGlftGyF3XSrdQbsRFa2aCQ&s"
-      },
-      {
-        "name": "Cable original \"C\" a \"C\"",
-        "price": 30,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "accesorio",
-        "imageUrl": "https://image.made-in-china.com/202f0j00NBsbEOLDfpqi/Original-USB-C-Type-C-to-C-Cable-for-iPhone-15-Plus-Ultra.jpg"
-      },
-      {
-        "name": "Cable original \"C\" a \"Lightning\"",
-        "price": 15,
-        "colors": [
-          "Consultar"
-        ],
-        "availability": "disponible",
-        "category": "accesorio",
-        "imageUrl": "https://acdn-us.mitiendanube.com/stores/356/280/products/6132-cable-iphone-tipo-c-a-lightning-generico-con-logo-en-caja-1-mt-1-656c048539841777d217271094281311-640-0.jpg"
-      }
-    ]
-  }
-]
+{
+  "MOTOROLA": [
+    {
+      "name": "E14",
+      "specs": "2RAM/64GB",
+      "price": 95,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://www.necxus.com.ar/products_image/36805/1000x1000_1.jpg"
+    },
+    {
+      "name": "G84 5G",
+      "specs": "12RAM/256GB",
+      "price": 280,
+      "colors": ["Azul", "Magenta"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://images.fravega.com/f500/8e1e780537f55dcf7914842dbfb52fea.jpg"
+    },
+    {
+      "name": "G75 5G",
+      "specs": "8RAM/256GB",
+      "price": 325,
+      "colors": ["Azul"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://www.cetrogar.com.ar/media/catalog/product/2/0/2024_paros_basic-pack_relucent-blue_pdp-hero.png?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:"
+    },
+    {
+      "name": "Edge 50 fusiÃ³n 5G",
+      "specs": "12RAM/256GB",
+      "price": 375,
+      "colors": ["Azul"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://images.fravega.com/f1000/049a215a4e062199ece3a9616598e768.jpg"
+    }
+  ],
+  "INFINIX": [
+    {
+      "name": "Hot 50I",
+      "specs": "4RAM/256GB",
+      "price": 160,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR86os-orZQM6LibWTGiNT_GVzYq7uIrXGgg&s"
+    },
+    {
+      "name": "Hot 50",
+      "specs": "8RAM/256GB",
+      "price": 200,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://www.cordobadigital.net/wp-content/uploads/2024/12/Infinix-hot-50.webp"
+    },
+    {
+      "name": "Hot 50 pro",
+      "specs": "8RAM/256GB",
+      "price": 225,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_827274-MLA80072000412_102024-O.webp"
+    },
+    {
+      "name": "Note 40 5G",
+      "specs": "8RAM/256GB",
+      "price": 265,
+      "colors": ["Negro", "Dorado"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_910076-MLA78218008033_082024-O.webp"
+    }
+  ],
+  "XIAOMI": [
+    {
+      "name": "Redmi 14c 4G",
+      "specs": "8RAM/256GB",
+      "price": 170,
+      "colors": ["Negro", "Azul", "Violeta", "Verde"],
+      "availability": "agotado",
+      "category": "smartphone",
+      "imageUrl": "https://www.ventasrosario.com.ar/wp-content/uploads/2024/09/Redmi-14c-azul.webp"
+    },
+    {
+      "name": "Redmi note 14 4G",
+      "specs": "6RAM/128GB",
+      "price": 225,
+      "colors": ["Negro", "Azul", "Verde"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://primeshop.com.py/wp-content/uploads/2025/01/5e499066f717866961e1fbcbf535918e492fe29c.jpg"
+    },
+    {
+      "name": "Redmi note 14 4G",
+      "specs": "8RAM/256GB",
+      "price": 255,
+      "colors": ["Negro", "Azul", "Verde"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://tntelectronica.com.ar/wp-content/uploads/Redmi-Note-14-2.png"
+    },
+    {
+      "name": "Redmi note 14 pro 4G",
+      "specs": "8RAM/256GB",
+      "price": 300,
+      "colors": ["Negro", "Azul", "Violeta"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://acdn-us.mitiendanube.com/stores/443/907/products/redmi_note_14_pro-1-bc2980875f45b7eba517371533196186-640-0.webp"
+    },
+    {
+      "name": "Redmi note 13 pro 5G",
+      "specs": "8RAM/256GB",
+      "price": 375,
+      "colors": ["Azul"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://acdn-us.mitiendanube.com/stores/005/527/486/products/redmi-note-13-pro-1-f4c01192417a17148417337046375136-1024-1024.webp"
+    },
+    {
+      "name": "Redmi note 13 pro 5G",
+      "specs": "12RAM/512GB",
+      "price": 430,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://acdn-us.mitiendanube.com/stores/005/527/486/products/redmi-note-13-pro-1-d2d57d9ed7c762c1b717337064755950-1024-1024.png"
+    },
+    {
+      "name": "Poco c75",
+      "specs": "8RAM/256GB",
+      "price": 190,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://acdn-us.mitiendanube.com/stores/443/907/products/pococ75black-205f0fc61ea18e817117306748261930-640-0.jpg"
+    },
+    {
+      "name": "Poco m6 pro",
+      "specs": "12RAM/512GB",
+      "price": 275,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_670375-MLA73950493202_012024-F.webp"
+    },
+    {
+      "name": "Poco x6 pro",
+      "specs": "12RAM/512GB",
+      "price": 360,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_660762-MLA74048129932_012024-F.webp"
+    },
+    {
+      "name": "Poco x7 pro",
+      "specs": "12RAM/512GB",
+      "price": 450,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_977077-MLA81884595508_012025-F.webp"
+    }
+  ],
+  "SAMSUNG": [
+    {
+      "name": "A06",
+      "specs": "4RAM/64GB",
+      "price": 140,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_833169-MLA79994466307_102024-F.webp"
+    },
+    {
+      "name": "A06",
+      "specs": "8RAM/128GB",
+      "price": 180,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_833169-MLA79994466307_102024-F.webp"
+    },
+    {
+      "name": "A25 5G",
+      "specs": "6RAM/128GB",
+      "price": 240,
+      "colors": ["Azul"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a256ezbaaro/gallery/ar-galaxy-a25-5g-sm-a256-sm-a256ezbaaro-542857268?$684_547_PNG$"
+    },
+    {
+      "name": "M55 5G",
+      "specs": "8RAM/256GB",
+      "price": 345,
+      "colors": ["Negro"],
+      "availability": "limitado",
+      "category": "smartphone",
+      "imageUrl": "https://img.caseking.es/products/SM-M556EZKAEUB.jpg"
+    },
+    {
+      "name": "S23 FE 5G",
+      "specs": "8RAM/256GB",
+      "price": 750,
+      "colors": ["Verde"],
+      "availability": "limitado",
+      "category": "smartphone",
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-s711blgmaro/gallery/ar-galaxy-s23-fe-s711-sm-s711blgmaro-538769720?$684_547_PNG$"
+    },
+    {
+      "name": "S24 5G",
+      "specs": "8RAM/256GB",
+      "price": 815,
+      "colors": ["Negro"],
+      "availability": "agotado",
+      "category": "smartphone",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSz5Mdk_sJx2aL7rL7u7w4NMPhVoR7kmdIRQpmzxL4Q6-a8UoGYbU3Q_tlsjtlmyVd1UdRhfMW9HoEJMoCplaJe_DUA9-TH9w"
+    }
+  ],
+  "IPHONE NUEVOS": [
+    {
+      "name": "13",
+      "specs": "128GB",
+      "price": 600,
+      "colors": ["Negro", "Blanco"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_736168-MLA47781742030_102021-F.webp"
+    },
+    {
+      "name": "14",
+      "specs": "128GB",
+      "price": 700,
+      "colors": ["Purpura"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_881016-MLM51559383738_092022-F.webp"
+    },
+    {
+      "name": "15",
+      "specs": "128GB",
+      "price": 750,
+      "colors": ["Negro", "Verde", "Azul"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_779617-MLA71782867320_092023-F.webp"
+    },
+    {
+      "name": "16",
+      "specs": "128GB",
+      "price": 850,
+      "colors": ["Negro", "Blanco"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_677076-MLU79116568655_092024-F.webp"
+    },
+    {
+      "name": "16 pro",
+      "specs": "128GB",
+      "price": 1050,
+      "colors": ["Natural", "Desert"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_836017-MLU78891585728_092024-F.webp"
+    },
+    {
+      "name": "16 pro",
+      "specs": "256GB",
+      "price": 1150,
+      "colors": ["Blanco", "Natural", "Desert"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_836017-MLU78891585728_092024-F.webp"
+    },
+    {
+      "name": "16 pro max",
+      "specs": "256GB",
+      "price": 1230,
+      "colors": ["Natural"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_728476-MLU78878973712_092024-F.webp"
+    }
+  ],
+  "IPHONE USADOS": [
+    {
+      "name": "12",
+      "specs": "64GB",
+      "price": 350,
+      "colors": ["Blanco"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://images.fravega.com/f500/e6a38e4bb8815212cc66c9afe539f837.jpg"
+    },
+    {
+      "name": "12",
+      "specs": "128GB",
+      "price": 390,
+      "colors": ["Verde"],
+      "availability": "agotado",
+      "category": "smartphone",
+      "imageUrl": "https://www.tandilphone.com.ar/topstore/contenido/productos/original/1706731818.jpeg"
+    },
+    {
+      "name": "12 pro",
+      "specs": "128GB",
+      "price": 460,
+      "colors": ["Azul"],
+      "availability": "limitado",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_796427-MLA46081508810_052021-O.webp"
+    },
+    {
+      "name": "14",
+      "specs": "128GB",
+      "price": 550,
+      "colors": ["Blanco", "Azul", "Purpura", "Rojo"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://images.fravega.com/f1000/d0bc4dd6817cd61bc85878ba97bdd00e.jpg"
+    },
+    {
+      "name": "15",
+      "specs": "128GB",
+      "price": 680,
+      "colors": ["Negro", "Azul", "Verde", "Rosa", "Amarillo"],
+      "availability": "disponible",
+      "category": "smartphone",
+      "imageUrl": "https://ipoint.com.ar/26695-medium_default/iphone-14-128gb-midnight.jpg"
+    },
+    {
+      "name": "15 pro",
+      "specs": "128GB",
+      "price": 880,
+      "colors": ["Negro", "Azul"],
+      "availability": "limitado",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_Q_NP_878826-MLA71783168396_092023-O.webp"
+    },
+    {
+      "name": "15 pro",
+      "specs": "256GB",
+      "price": 980,
+      "colors": ["Azul"],
+      "availability": "limitado",
+      "category": "smartphone",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_812116-MLA71783168214_092023-O.webp"
+    },
+    {
+      "name": "15 pro max",
+      "specs": "256GB",
+      "price": 1050,
+      "colors": ["Negro", "Azul"],
+      "availability": "limitado",
+      "category": "smartphone",
+      "imageUrl": "https://images.fravega.com/f500/58a8d7fcbef50febc051aec42c782ed3.jpg"
+    }
+  ],
+  "OTROS PRODUCTOS": [
+    {
+      "name": "MacBook Air M1 13\"",
+      "specs": "8/256GB",
+      "price": 920,
+      "colors": ["Dorado", "Gris", "Plateado"],
+      "availability": "disponible",
+      "category": "laptop",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTzmBEtcf5XFZ83jugK1g2YrcREJP7q5oumih9rwQ1yTq_6fYnYnoZBiQlNUIbn2551rmjIOwdHUs2mLZYFvx2BE9NLFvxe8Q"
+    },
+    {
+      "name": "MacBook Air M1 13\" (usada)",
+      "specs": "8/256GB",
+      "price": 810,
+      "colors": ["Dorado"],
+      "availability": "limitado",
+      "category": "laptop",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTzmBEtcf5XFZ83jugK1g2YrcREJP7q5oumih9rwQ1yTq_6fYnYnoZBiQlNUIbn2551rmjIOwdHUs2mLZYFvx2BE9NLFvxe8Q"
+    },
+    {
+      "name": "MacBook Air M2 13\"",
+      "specs": "8/256GB",
+      "price": 1070,
+      "colors": ["Blanco"],
+      "availability": "limitado",
+      "category": "laptop",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCrcSAkxZIkQVlQ6aJo5Yt_lA8ao5NEhU_2kZplTqHhRszSs4Gc_6XdVFNb9DFSEh87aWGGhiQS3V_YtLUsRsYI462Kdhe"
+    },
+    {
+      "name": "MacBook Air M3 13\"",
+      "specs": "8/512GB",
+      "price": 1550,
+      "colors": ["Gris"],
+      "availability": "disponible",
+      "category": "laptop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfhazJpgTUHO2C-uVAGkxEwqP6m1cZXTVxWIzGag0Ov_lzMC03-kSu9yk4vv_DbV4-HvA0ej3nBJ4YYYzMnK7dy5FUZrEH"
+    },
+    {
+      "name": "MacBook Air M3 13\"",
+      "specs": "16/256GB",
+      "price": 1250,
+      "colors": ["Negro"],
+      "availability": "agotado",
+      "category": "laptop",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfhazJpgTUHO2C-uVAGkxEwqP6m1cZXTVxWIzGag0Ov_lzMC03-kSu9yk4vv_DbV4-HvA0ej3nBJ4YYYzMnK7dy5FUZrEH"
+    },
+    {
+      "name": "MacBook Air M3 13\"",
+      "specs": "16/512GB",
+      "price": 1650,
+      "colors": ["Negro", "Blanco"],
+      "availability": "limitado",
+      "category": "laptop",
+      "imageUrl": "https://macfinder.co.uk/wp-content/smush-webp/2023/01/img-MacBook-Air-13-Inch-33812.jpg.webp"
+    },
+    {
+      "name": "PS5 digital & NBA 2k25",
+      "specs": "",
+      "price": 650,
+      "colors": [],
+      "availability": "disponible",
+      "category": "consola",
+      "imageUrl": "https://comprarmag.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-04-at-15.28.50.jpeg"
+    },
+    {
+      "name": "PS5 pro",
+      "specs": "2TB",
+      "price": 1100,
+      "colors": [],
+      "availability": "disponible",
+      "category": "consola",
+      "imageUrl": "https://d1a9qnv764bsoo.cloudfront.net/stores/082/436/rte/Playstation%205%20Pro.jpg"
+    },
+    {
+      "name": "Joystick PS5",
+      "specs": "",
+      "price": 135,
+      "colors": ["Blanco", "Rosa"],
+      "availability": "disponible",
+      "category": "accesorio",
+      "imageUrl": "https://tiendadiggit.com.ar/web/image/product.image/11324/image_1024/Joystick%20Dualsense%20Sony%20Playstation%205%20Blanco?unique=a39300e"
+    },
+    {
+      "name": "Xbox Series X",
+      "specs": "1TB",
+      "price": 680,
+      "colors": [],
+      "availability": "limitado",
+      "category": "consola",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_658740-MLA80426409696_112024-O.webp"
+    },
+    {
+      "name": "Nintendo Switch OLED",
+      "specs": "64GB",
+      "price": 420,
+      "colors": ["NeÃ³n"],
+      "availability": "limitado",
+      "category": "consola",
+      "imageUrl": "https://spacegamer.com.ar/img/Public/1058/25394-producto-oledneon.jpg"
+    },
+    {
+      "name": "iPad 10 10.9\"",
+      "specs": "64GB",
+      "price": 490,
+      "colors": ["Azul", "Amarillo"],
+      "availability": "limitado",
+      "category": "tablet",
+      "imageUrl": "https://ipoint.com.ar/26998-large_default/ipad-109-10-gen-64gb-blue.jpg"
+    },
+    {
+      "name": "iPad 10 10.9\"",
+      "specs": "256GB",
+      "price": 620,
+      "colors": ["Amarillo"],
+      "availability": "limitado",
+      "category": "tablet",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmUvV1v1-2nkoYxvJqeb-SO1BXDXcx8a4hA&s"
+    },
+    {
+      "name": "Watch SE 2 44mm band",
+      "specs": "",
+      "price": 300,
+      "colors": ["Negro", "Blanco"],
+      "availability": "disponible",
+      "category": "smartwatch",
+      "imageUrl": "https://macstore.com.pa/cdn/shop/files/Apple_Watch_SE_GPS_44mm_Starlight_Aluminum_Starlight_Sport_Loop_PDP_Image_2023_Position-1__COES_6c2126ac-ba1b-433b-9289-565ff4b9df20_533x.jpg?v=1700489003"
+    },
+    {
+      "name": "Watch SE 2 44mm loop",
+      "specs": "",
+      "price": 315,
+      "colors": ["Negro", "Blanco"],
+      "availability": "agotado",
+      "category": "smartwatch",
+      "imageUrl": "https://macstore.com.pa/cdn/shop/files/Apple_Watch_SE_GPS_44mm_Starlight_Aluminum_Starlight_Sport_Loop_PDP_Image_2023_Position-1__COES_6c2126ac-ba1b-433b-9289-565ff4b9df20_533x.jpg?v=1700489003"
+    },
+    {
+      "name": "Watch Ultra 2 49mm loop",
+      "specs": "",
+      "price": 950,
+      "colors": ["Negro", "Azul Indico"],
+      "availability": "disponible",
+      "category": "smartwatch",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_882302-MLA81007139525_112024-F.webp"
+    },
+    {
+      "name": "Watch S10 46mm band",
+      "specs": "",
+      "price": 575,
+      "colors": ["Negro", "Rosa"],
+      "availability": "disponible",
+      "category": "smartwatch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-OEdViHtMXtONo7yuMthcA_Sj_98Y2owwEw&s"
+    },
+    {
+      "name": "Watch S10 46mm loop",
+      "specs": "",
+      "price": 575,
+      "colors": ["Negro", "Plateado"],
+      "availability": "disponible",
+      "category": "smartwatch",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1wr8QxBP-3iHWCzZFcdNr6pUFcO_PbD9ilzUClxY8aZJHOELQBzYz2BFVGzDrK62gM8&usqp=CAU"
+    },
+    {
+      "name": "AirPods 4",
+      "specs": "",
+      "price": 200,
+      "colors": [],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_773157-MLA80061857479_102024-O.webp"
+    },
+    {
+      "name": "AirPods 4 con cancelaciÃ³n",
+      "specs": "",
+      "price": 245,
+      "colors": [],
+      "availability": "limitado",
+      "category": "audio",
+      "imageUrl": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png"
+    },
+    {
+      "name": "AirPods Pro 21",
+      "specs": "",
+      "price": 290,
+      "colors": [],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://ipoint.com.ar/25134-large_default/apple-airpods-pro-2da-generacion.jpg"
+    },
+    {
+      "name": "Airtag",
+      "specs": "x1",
+      "price": 45,
+      "colors": [],
+      "availability": "disponible",
+      "category": "accesorio",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_701163-MLU70657225781_072023-F.webp"
+    },
+    {
+      "name": "Airtag",
+      "specs": "x4",
+      "price": 140,
+      "colors": [],
+      "availability": "disponible",
+      "category": "accesorio",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_950574-MLU74532398729_022024-F.webp"
+    },
+    {
+      "name": "JBL Go 4",
+      "specs": "",
+      "price": 70,
+      "colors": ["Negro", "Azul", "Rojo"],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://images.fravega.com/f300/626bf9c3597c39b7559bd5257350b4f0.jpg.webp"
+    },
+    {
+      "name": "JBL Clip 5",
+      "specs": "",
+      "price": 95,
+      "colors": ["Negro", "Azul", "Rojo"],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://images.fravega.com/f300/95791675b80f7e969e06bc1fabbb0437.jpg.webp"
+    },
+    {
+      "name": "JBL Flip 6",
+      "specs": "",
+      "price": 140,
+      "colors": ["Negro", "Azul", "Rojo"],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_892684-MLA81183505962_122024-F.webp"
+    },
+    {
+      "name": "JBL Charge 5",
+      "specs": "",
+      "price": 190,
+      "colors": ["Negro", "Azul", "Rojo"],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_811259-MLA77592320409_072024-F.webp"
+    },
+    {
+      "name": "JBL Pulse 5",
+      "specs": "",
+      "price": 280,
+      "colors": ["Negro"],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5115a3ac/1_JBL_PULSE_5_HERO_34364_x2.png?sw=537&sfrm=png"
+    },
+    {
+      "name": "JBL Xtreme 4",
+      "specs": "",
+      "price": 355,
+      "colors": ["Negro", "Azul"],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_608591-MLA79642765965_092024-F.webp"
+    },
+    {
+      "name": "JBL Boombox 3",
+      "specs": "",
+      "price": 525,
+      "colors": ["Negro", "Camuflado"],
+      "availability": "disponible",
+      "category": "audio",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_865346-MLA74770370481_022024-F.webp"
+    },
+    {
+      "name": "Magic Mouse",
+      "specs": "",
+      "price": 120,
+      "colors": ["Blanco"],
+      "availability": "limitado",
+      "category": "accesorio",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_624987-MLA48881660084_012022-F.webp"
+    },
+    {
+      "name": "Fuentes 20w original",
+      "specs": "",
+      "price": 45,
+      "colors": [],
+      "availability": "disponible",
+      "category": "accesorio",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCc4_ejgJ6e9dDGlftGyF3XSrdQbsRFa2aCQ&s"
+    },
+    {
+      "name": "Cable original \"C\" a \"C\"",
+      "specs": "",
+      "price": 30,
+      "colors": [],
+      "availability": "disponible",
+      "category": "accesorio",
+      "imageUrl": "https://image.made-in-china.com/202f0j00NBsbEOLDfpqi/Original-USB-C-Type-C-to-C-Cable-for-iPhone-15-Plus-Ultra.jpg"
+    },
+    {
+      "name": "Cable original \"C\" a \"Lightning\"",
+      "specs": "",
+      "price": 15,
+      "colors": [],
+      "availability": "disponible",
+      "category": "accesorio",
+      "imageUrl": "https://acdn-us.mitiendanube.com/stores/356/280/products/6132-cable-iphone-tipo-c-a-lightning-generico-con-logo-en-caja-1-mt-1-656c048539841777d217271094281311-640-0.jpg"
+    }
+  ]
+}
